@@ -1,4 +1,8 @@
-package com.example;
+package org.example;
 
-public class SomeImpl {
+public class SomeImpl implements SomeInterface {
+    @Override
+    public void doSomething() {
+        System.out.print("A");
+    }
 }

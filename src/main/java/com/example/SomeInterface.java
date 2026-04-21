@@ -1,4 +1,5 @@
-package com.example;
+package org.example;
 
-public class SomeInterface {
+public interface SomeInterface {
+    void doSomething();
 }
