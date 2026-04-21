@@ -1,4 +1,7 @@
 package org.example;
+/**
+ * Реализация интерфейса SomeOtherInterface.
+ */
 
 public class SODoer implements SomeOtherInterface {
     @Override

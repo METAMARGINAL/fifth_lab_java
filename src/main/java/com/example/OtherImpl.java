@@ -1,4 +1,7 @@
 package org.example;
+/**
+ * Вторая реализация интерфейса SomeInterface.
+ */
 
 public class OtherImpl implements SomeInterface {
     @Override
